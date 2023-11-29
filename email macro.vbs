@@ -1,5 +1,5 @@
 Sub SendMail_1()
-
+'this is dog-shit, improvements are needed to recursively call the same mail object, whilst incrementing the rows. For each new mail you have to create a new function!!
     Dim Wks    As Worksheet
     Dim OutMail As Object
     Dim OutApp As Object
